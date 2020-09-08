@@ -24,6 +24,8 @@
 [instagram]: https://instagram.com/sagar.r.k
 [linkedin]: https://linkedin.com/in/sagarkharabe
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=sagarkharabe.visitor_count)
+
 <!--
 **sagarkharbe/sagarkharbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
