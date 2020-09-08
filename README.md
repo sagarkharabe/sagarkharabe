@@ -18,13 +18,15 @@
 [<img align="left" alt="sagarkharabe | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="sagarkharabe | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+<br /> <br />
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=sagarkharabe.visitor_count)
 
 [website]: https://sagarkharabe.com
 [twitter]: https://twitter.com/sagarkharabe
 [instagram]: https://instagram.com/sagar.r.k
 [linkedin]: https://linkedin.com/in/sagarkharabe
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=sagarkharabe.visitor_count)
 
 <!--
 **sagarkharbe/sagarkharbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
