@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Sagar! 👋
+
+[![Website](https://img.shields.io/website?label=sagarkharabe.com&style=for-the-badge&url=https%3A%2F%2Fsagarkharabe.com)](https://sagarkharabe.com)
 
 <!--
 **sagarkharbe/sagarkharbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
