@@ -36,8 +36,8 @@
 <img align="left" alt="Chai" width="30px" src="https://camo.githubusercontent.com/431283cc1643d02167aac31067137897507c60fc/687474703a2f2f636861696a732e636f6d2f696d672f636861692d6c6f676f2e706e67" />
 <img align="left" alt="Mocha" width="30px" src="https://camo.githubusercontent.com/af4bf83ab2ca125346740f9961345a24ec43b3a9/68747470733a2f2f636c6475702e636f6d2f78465646784f696f41552e737667" />
 <img align="left" alt="Jest" width="32px" src="https://github.com/facebook/jest/raw/master/website/static/img/jest-readme-headline.png" />
+<img align="left" alt="Meteor" width="32px" src="https://user-images.githubusercontent.com/841294/26841702-0902bbee-4af3-11e7-9805-0618da66a246.png" />
 <img align="left" alt="Ant-Design" width="30px" src="https://camo.githubusercontent.com/bc93494c1f9faf29cae5064245e03f086a2cb1b5/68747470733a2f2f67772e616c697061796f626a656374732e636f6d2f7a6f732f726d73706f7274616c2f4b4470677667754d704766716148506a6963524b2e737667" />
-<img align="left" alt="Meteor" width="30px" src="https://user-images.githubusercontent.com/841294/26841702-0902bbee-4af3-11e7-9805-0618da66a246.png" />
 
 <br /> <br /> 
 
