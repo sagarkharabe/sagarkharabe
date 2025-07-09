@@ -8,7 +8,7 @@
 - 🔭 I’m currently working at a FinTech and an EduTech Startup.
 - 🌱 I’m currently learning as much as I possibly can..😅
 - 👯 I’m looking to collaborate on innovative ideas.
-- 🥅 2024 Goals: Finish all the books in my Amazon cart 🤣 <!-- Contribute more to Open Source projects-->
+- 🥅 2025 Goals: Finish all the books in my Amazon cart 🤣 <!-- Contribute more to Open Source projects-->
 - ⚡ Fun fact: I've gained wide breadth of knowledge just due to curiosity.
 
 ### Connect with me:
